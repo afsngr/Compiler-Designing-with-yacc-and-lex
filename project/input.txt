@@ -1,0 +1,23 @@
+void f1()
+{
+	int x,y,z;
+	x=y-7+9/z;
+}
+void f2()
+{
+	int k,l,m;
+	k=l-7+9/m;
+}
+void main()
+{
+	
+
+	a=a-7+9/c;
+	int c,b,d;
+	while(c==9)
+	{
+	}
+	f2();
+	f1();
+	f3();
+}
